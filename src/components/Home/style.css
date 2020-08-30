@@ -1,0 +1,9 @@
+.white-text-global {
+  color: white !important;
+}
+.animate__animated.animate__heartBeat {
+  --animate-duration: 0.7s;
+}
+.animate__animated.animate__pulse {
+  --animate-duration: 4s;
+}

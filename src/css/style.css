@@ -1,3 +1,9 @@
-body{
-    background-color: rgb(45, 55, 73);
+body {
+  background-color: rgb(45, 55, 73) !important;
+}
+.container-width-fix {
+  display: flex;
+  flex-wrap: wrap;
+  background: none !important;
+  width: 80vw !important;
 }

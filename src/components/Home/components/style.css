@@ -1,0 +1,44 @@
+input {
+  border: none;
+  outline: none;
+  height: 100%;
+  width: 100%;
+  padding: 3px 12px;
+  background: none;
+}
+label {
+  font-size: 20px;
+  color: "white";
+  margin-right: 5px;
+}
+.search-bar {
+  display: flex;
+  height: 35px;
+  align-items: center;
+  width: 20%;
+  padding: 2px 5px;
+  background: white;
+  border-radius: 18px;
+  border: black solid 1px;
+}
+.search-bar-segment {
+  display: flex !important;
+  align-items: center !important;
+}
+
+.search-bar > form {
+  display: flex;
+}
+button {
+  border: none;
+  outline: none;
+  background: none;
+  cursor: pointer;
+}
+
+.search-react-semantic {
+  border: none;
+  outline: none;
+  background: none;
+  cursor: pointer;
+}
