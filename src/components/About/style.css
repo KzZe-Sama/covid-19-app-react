@@ -1,3 +1,13 @@
-.background-remove{
-    background: none !important;
+@import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@1,900&family=Ubuntu&display=swap");
+.background-remove {
+  background: none !important;
+}
+.about-text {
+  font-family: "Ubuntu", sans-serif;
+  font-size: 20px !important;
+  text-transform: capitalize;
+  font-weight: 500;
+  word-spacing: 2px;
+  text-align: justify;
+  line-height: 35px;
 }
