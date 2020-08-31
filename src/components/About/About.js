@@ -30,7 +30,7 @@ export default function About(props) {
             <Card.Description>{props.data && props.data.bio}</Card.Description>
           </Card.Content>
           <Card.Content extra>
-            <Icon name="user circle " color="teal" />
+            <Icon name="user" color="teal" />
             {props.data && props.data.followers} followers on GitHub
           </Card.Content>
         </Card>
